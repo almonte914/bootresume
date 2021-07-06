@@ -1,1 +1,1 @@
-# bootresume
+Resume utilizing bootstrap layout.
